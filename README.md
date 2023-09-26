@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ygabdn29/four-card-feature)
-- Live Site URL:
+- Live Site URL: (https://ygabdn29.github.io/four-card-feature/)
 
 ## My process
 
@@ -51,7 +51,7 @@ Users should be able to:
 
 - [MDN](https://developer.mozilla.org/en-US/)
 - [CSSTricks-Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [CSSTricks-Grid](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSSTricks-Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Author
 
