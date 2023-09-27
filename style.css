@@ -47,7 +47,7 @@ body {
 .heading-secondary {
   font-weight: var(--fw-light);
   margin-bottom: 0.4rem;
-  color: var(--neutral-grayish-blue);
+  color: var(--neutral-darker-blue);
 }
 
 .heading-tertiary {
