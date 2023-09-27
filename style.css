@@ -25,6 +25,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   font-weight: var(--fw-normal);
+  background-color: var(--neutral-lighter-gray);
 }
 
 .flex {
@@ -84,7 +85,9 @@ body {
   border-radius: 5px;
   background-color: var(--neutral-lighter-gray);
 
-  box-shadow: 0 1rem 2rem var(--neutral-grayish-blue);
+  /* box-shadow: 0 1rem 2rem var(--neutral-grayish-blue); */
+  /* from feedback */
+  box-shadow: 0 1rem 2rem 0.1rem hsla(210, 28%, 78%, 0.5);
 }
 
 .feature--supervisor {
